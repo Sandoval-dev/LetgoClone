@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-letgoclone-dev-145605-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050192830:role/amplify-letgoclone-dev-145605-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050192830:role/amplify-letgoclone-dev-145605-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-letgoclone-dev-145605-deployment",
+      "UnauthRoleName": "amplify-letgoclone-dev-145605-unauthRole",
+      "StackName": "amplify-letgoclone-dev-145605",
+      "StackId": "arn:aws:cloudformation:eu-central-1:975050192830:stack/amplify-letgoclone-dev-145605/d96578b0-dd42-11ee-8e04-06761d315c95",
+      "AmplifyAppId": "d3irizawdx9gac"
+    },
+    "categories": {
+      "auth": {
+        "letgoclone34c3311f": {}
+      }
+    }
+  }
+}
